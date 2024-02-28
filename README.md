@@ -6,9 +6,7 @@ Termdle is a simple word-guessing game played in the terminal. The objective is 
 
 - Interactive gameplay in the terminal.
 - Randomly selects a word from a provided word list.
-- Keeps track of previous guesses.
 - Visual feedback on correct and incorrect guesses.
-- Supports resetting the game and quitting at any time.
 
 ## Usage
 
