@@ -23,13 +23,13 @@ Install requirements
 pip install requirements.txt
 ```
 
-Create a word list file (`word_list.txt`) containing a list of words, one word per line.
+Create a word list file (`example_word_list.txt`) containing a list of words, one word per line.
 
 Example
 ```python
 from termdle import Termdle
 
-wordle = Termdle("example_word_list.txt").start()
+termdle = Termdle("example_word_list.txt").start()
 ```
 
 ## Contributing
