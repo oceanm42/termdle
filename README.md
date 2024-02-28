@@ -35,3 +35,6 @@ wordle = Termdle("example_word_list.txt").start()
 ## Contributing
 
 Contributions are welcome! If you have suggestions or found a bug, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the [MIT License](LICENSE) file for details.
